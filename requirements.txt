@@ -1,0 +1,7 @@
+ultralytics>=8.0.0
+opencv-python>=4.0.0
+onnx>=1.14.0
+onnxruntime>=1.15.0
+streamlit>=1.28.0
+torch>=2.0.0
+torchvision>=0.15.0
