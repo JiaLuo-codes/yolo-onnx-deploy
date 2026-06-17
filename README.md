@@ -14,7 +14,7 @@
 
 
 
-!\[检测示例](result.jpg)
+[检测示例](result.jpg)
 
 
 
